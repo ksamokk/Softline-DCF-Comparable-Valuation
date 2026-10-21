@@ -63,8 +63,8 @@ The two estimates provide a range for discussion rather than a single definitive
 
 ## Project Files · Quick Links
 
-- 📊 **[Complete Excel valuation model](Finance%20project-2.xlsx)** — historical analysis, forecasts, DCF, comparable valuation, and final results.
-- 🇷🇺 **[README in Russian](README_RU.md)**
+- **[Complete Excel valuation model](Finance%20project-2.xlsx)** — historical analysis, forecasts, DCF, comparable valuation, and final results.
+- **[README in Russian](README_RU.md)**
 
 ---
 
